@@ -1,0 +1,3 @@
+interface:
+  display_name: "Z-Image Turbo Generator"
+  short_description: "Generate images with Tongyi-MAI/Z-Image-Turbo using a Hugging Face API key"

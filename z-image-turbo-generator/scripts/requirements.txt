@@ -1,0 +1,2 @@
+huggingface_hub>=0.30.0
+Pillow>=10.0.0
